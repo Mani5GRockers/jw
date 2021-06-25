@@ -18,9 +18,9 @@ var jwDefaults = {
   "displaydescription": false,
   "displaytitle": false,
   "height": 260,
-  "key": "QwuDnm5L24zUL4r8z8oy0bFgKSQG7fiupZ8nLj+/U/YjVeSSFI6ToEnIXMIuq/tW",
+  "key": "7UlhgPJYJ5gdyKBwnt0cKm1JMvSAYlNga1EFsC6OUZ+nks3ZXhoDPC0f1Hj9zn72",
   "logo": {
-    "file": "https://gd.awslink.in/jw/watermark.png",
+    "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
     "hide": false,
     "margin": "10",
     "position": "top-right"
@@ -28,7 +28,7 @@ var jwDefaults = {
   "mute": false,
   "ph": 1,
   "pid": "Jq6HIbgz",
-  "playbackRateControls": false,
+  "playbackRateControls": true,
   "preload": "metadata",
   "repeat": false,
   "stretching": "exactfit",
